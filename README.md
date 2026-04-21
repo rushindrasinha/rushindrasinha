@@ -9,19 +9,19 @@ I built a game server at 17 that became #1 globally, then left medicine to build
 - **[aarees.com](https://aarees.com)**  
   AI agent platform and operating layer for creator and business workflows.
 
-- **thumbnail.gg**  
+- **[thumbnail.gg](https://thumbnail.gg)**  
   AI thumbnail generation built for creators who care about CTR, speed, and niche context.
 
-- **verticals.gg**  
+- **[verticals.gg](https://verticals.gg)**  
   AI-driven short-form content and vertical video infrastructure.
 
-- **xreader.ai**  
+- **[xreader.ai](https://xreader.ai)**  
   AI reading and signal-extraction workflows for faster, higher-leverage content consumption.
 
-- **mohshi**  
+- **[mohshi](https://mohshi.com)**  
   AI-native media and prompt systems for video and creative production.
 
-- **clipit.gg**  
+- **[clipit.gg](https://clipit.gg)**  
   Clip and media workflow tooling.
 
 ## Selected repositories
