@@ -1,46 +1,73 @@
-# Hey, I'm Rushi 👋
+# Rushi Sinha
 
-📍 **Mumbai** | 🏥 **MD** | 🎮 **Esports Founder** | 🤖 **AI Builder** | 🎓 **Stanford GSB**
+Founder, builder, and operator working at the intersection of AI, creators, gaming, and internet media.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Valorant](https://img.shields.io/badge/-VCT_Pacific-FF4655?style=flat-square&logo=valorant&logoColor=white)
+I built a game server at 17 that became #1 globally, then left medicine to build companies full-time. I co-founded Global Esports, one of South Asia’s defining esports organizations and a VCT Pacific franchise. Now I’m building AI systems, media products, and operator tools for creators, teams, and internet businesses.
 
-> Doctor who chose video games. Built a game server at 17 that went #1 globally. Co-founded South Asia's only VCT Pacific franchise. Now building AI infrastructure for the next generation of creators.
+## What I’m building now
+
+- **[aarees.com](https://aarees.com)**  
+  AI agent platform and operating layer for creator and business workflows.
+
+- **thumbnail.gg**  
+  AI thumbnail generation built for creators who care about CTR, speed, and niche context.
+
+- **verticals.gg**  
+  AI-driven short-form content and vertical video infrastructure.
+
+- **xreader.ai**  
+  AI reading and signal-extraction workflows for faster, higher-leverage content consumption.
+
+- **mohshi**  
+  AI-native media and prompt systems for video and creative production.
+
+- **clipit.gg**  
+  Clip and media workflow tooling.
+
+## Selected repositories
+
+- **[youtube-shorts-pipeline](https://github.com/rushindrasinha/youtube-shorts-pipeline)**  
+  Automated pipeline from topic to published short.
+
+- **[valoscribe](https://github.com/rushindrasinha/valoscribe)**  
+  Computer vision and OCR for structured Valorant broadcast analysis.
+
+- **[ares-mbl](https://github.com/rushindrasinha/ares-mbl)**  
+  A model behavior layer for making frontier models sharper, more reliable, and more operator-grade.
+
+- **[ares-skills](https://github.com/rushindrasinha/ares-skills)**  
+  OpenClaw agent skills for automation, monitoring, execution, and creator workflows.
+
+- **[clawdbot](https://github.com/rushindrasinha/clawdbot)**  
+  Personal AI assistant infrastructure across platforms.
+
+- **[clutch-creator](https://github.com/rushindrasinha/clutch-creator)**  
+  Chrome extension for turning webpages into content ideas and usable creator signal.
+
+## Background
+
+- MD by training
+- Founder/operator by choice
+- Co-founder of **Global Esports**
+- Built and sold an online gaming business before finishing med school
+- Building systems around leverage, media, automation, and internet-native businesses
+
+## What this GitHub is
+
+A live map of what I’m building now:
+- AI systems
+- automation
+- media tooling
+- creator infrastructure
+- gaming and esports products
+- leverage through software
+
+## Find me
+
+- **X:** [@irushi](https://twitter.com/irushi)
+- **Instagram:** [@rushindrasinha](https://instagram.com/rushindrasinha)
+- **LinkedIn:** [rushindrasinha](https://linkedin.com/in/rushindrasinha)
 
 ---
 
-## What I'm Building
-
-- 🎬 **[verticals.gg](https://verticals.gg)** — AI video engine for short-form content. Any niche. ~$0.11/video.
-- 🖼️ **[thumbnail.gg](https://thumbnail.gg)** — AI thumbnail generation with deep niche intelligence and CTR optimization
-- 🤖 **[aarees.com](https://aarees.com)** — The AI agent platform powering it all
-- 🏆 **[Global Esports](https://globalesports.in)** — South Asia's VCT Pacific franchise. Building the future of esports.
-
----
-
-## Open Source
-
-- 🎥 **[youtube-shorts-pipeline](https://github.com/rushindrasinha/youtube-shorts-pipeline)** — Topic in. Published Short out. 17 niche profiles. 1000+ stars.
-- 🔌 **[openclaw-guide](https://github.com/rushindrasinha/openclaw-guide)** — Getting started with OpenClaw AI
-
----
-
-## The Story So Far
-
-Built a Ragnarok Online private server at 17 → #1 globally → acquired before finishing med school.
-Left Mumbai for San Francisco the day I got my medical degree.
-Co-founded **Global Esports** in 2018 — India's first VC-backed esports org, VCT Pacific franchise, 25+ rosters.
-Now building AI tools that give every creator the infrastructure of a media house.
-
----
-
-## Find Me
-
-[![Twitter/X](https://img.shields.io/badge/@irushi-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/irushi)
-[![Instagram](https://img.shields.io/badge/@rushindrasinha-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rushindrasinha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushindrasinha)
-[![Website](https://img.shields.io/badge/aarees.com-FF4655?style=flat-square&logo=safari&logoColor=white)](https://aarees.com)
+If you're building at the edge of AI, creators, gaming, or media infrastructure, we’ll probably have something to talk about.
